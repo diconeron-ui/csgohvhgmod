@@ -1,7 +1,0 @@
-include("shared.lua")
-include("client/cl_rules.lua")
-include("client/cl_teams.lua")
-include("client/cl_scoreboard.lua")
-include("client/cl_round_hud.lua")
-include("client/cl_killfeed.lua")
-include("client/cl_bomb_notice.lua")

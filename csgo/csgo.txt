@@ -1,8 +1,0 @@
-"Gamemode"
-{
-    "base" "sandbox"
-    "title" "CS:GO"
-    "category" "Combat"
-    "maps" "^gm_|^de_|^cs_"
-    "menusystem" "1"
-}
